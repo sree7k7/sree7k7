@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm [Srikanth] 👋
 
-<!--
-**sree7k7/sree7k7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AWS+Cloud+Architect;DevOps+Engineer;Python+Enthusiast;Full+Stack+Developer&center=true&width=440&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on **ChatOps-ServiceNow Integration**
+- ⚡ I'm a power user of **Cloud**, **Automation**, and **uv** (lightning-fast Python development)
+- 🌱 Learning: Advanced AI Agents and Event-Driven Architectures
+- 💬 Ask me about: **Serverless**, **AI Agents**, or **Infrastructure as Code**
+
+### 🛠️ Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,python,nodejs,docker,githubactions,linux,vscode,postgres&perline=8" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[sree7k7]&show_icons=true&theme=radical&hide_border=false" alt="My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[sree7k7]&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+### 🏆 Achievements
+![GitHub Streak](https://streak-stats.demolab.com?user=[sree7k7]&theme=radical)
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/srikanth-ankam/)
