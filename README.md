@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,python,nodejs,docker,githubactions,linux,vscode,postgres&perline=8" />
+    <img src="https://skillicons.dev/icons?i=aws,python,lambda,azure,kubernetes,docker,githubactions,linux,vscode&perline=8" />
   </a>
 </p>
 
