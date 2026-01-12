@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,python,terraform,azure,kubernetes,docker,githubactions,linux,vscode&perline=8&theme=radical&show_icons=true" />
+    <img src="https://skillicons.dev/icons?i=aws,python,terraform,azure,kubernetes,docker,githubactions,linux,vscode&perline=8" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[sree7k7]&show_icons=true&theme=radical&hide_border=false" alt="My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[sree7k7]&show_icons=true&theme=dark&hide_border=false" alt="My Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[sree7k7]&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
