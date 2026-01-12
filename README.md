@@ -1,7 +1,7 @@
 # Hi there, I'm Srikanth 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AWS+Cloud+Architect;DevOps+Engineer;Python+Enthusiast;Full+Stack+Developer&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AWS+Cloud+Architect;DevOps+Engineer;Python+Enthusiast;Terraform;Generative AI&center=true&width=440&height=45">
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,python,terraform,azure,kubernetes,docker,githubactions,linux,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=aws,python,terraform,azure,kubernetes,docker,githubactions,linux,vscode&perline=8&theme=radical&show_icons=true" />
   </a>
 </p>
 
