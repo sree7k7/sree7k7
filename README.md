@@ -1,7 +1,7 @@
 # Hi there, I'm Srikanth 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AWS+Cloud+Architect;DevOps+Engineer;Python+Enthusiast;Terraform;Generative AI&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AWS+Cloud+Architect;DevOps+Engineer;Python+Enthusiast;Terraform;Generative+AI&center=true&width=440&height=45">
 </p>
 
 ---
