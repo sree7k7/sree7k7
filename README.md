@@ -1,4 +1,4 @@
-# Hi there, I'm [Srikanth] 👋
+# Hi there, I'm Srikanth 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AWS+Cloud+Architect;DevOps+Engineer;Python+Enthusiast;Full+Stack+Developer&center=true&width=440&height=45">
